@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636728978 source:d:\projects\avs-labs\lab4\asm.s
+
+1636734195 source:d:\projects\avs-labs\lab4\main.cpp
+	<iostream>
+
+1636729646 source:d:\projects\avs-labs\lab4\asm2.s
+
+1636735332 source:d:\projects\avs-labs\lab4\asm3.s
+
+1636728978 source:c:\users\misha\source\repos\abc\lab4\lab4\asm.s
+
+1636729646 source:c:\users\misha\source\repos\abc\lab4\lab4\asm2.s
+
+1636735332 source:c:\users\misha\source\repos\abc\lab4\lab4\asm3.s
+
